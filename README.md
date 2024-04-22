@@ -28,4 +28,4 @@ Se podrá registrar como usario dentro de la app utilizando el mismo nombre de u
 Una vez registrado dentro de la app, podrá:
 - Añadir peliculas como favoritas
 - Registrar una puntación en base a tu opinión de la película 
--Registrar una reseña o comentario en base a tu opinión de la película
+- Registrar una reseña o comentario en base a tu opinión de la película
